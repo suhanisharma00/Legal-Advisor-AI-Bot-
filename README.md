@@ -144,9 +144,8 @@ python run.py
 ## 📞 Support & Contact
 
 ### Developer Information
-- **Name**: Akarsh Chaturvedi
-- **Email**: Chaturvediakarsh51@gmail.com
-- **LinkedIn**: [Akarsh Chaturvedi](https://www.linkedin.com/in/akarsh-chaturvedi-259271236)
+- **Name**: Suhani Sharma
+
 
 ### Getting Help
 - Run `python test_app.py` for troubleshooting
@@ -172,7 +171,7 @@ python run.py
 
 ---
 
-**Developed with ❤️ by Akarsh Chaturvedi**
+**Developed with ❤️ by Suhani Sharma**
 
 **Making Legal Assistance Accessible to Every Indian Citizen**
 
@@ -187,3 +186,4 @@ python run.py
 - **Source Code** - Fully open-source and customizable
 
 **⭐ Star this repo if you find it useful!**
+
